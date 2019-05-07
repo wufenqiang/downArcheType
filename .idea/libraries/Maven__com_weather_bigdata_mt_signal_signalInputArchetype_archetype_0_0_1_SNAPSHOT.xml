@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.weather.bigdata.mt.signal:signalInputArchetype-archetype:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weather/bigdata/mt/signal/signalInputArchetype-archetype/0.0.1-SNAPSHOT/signalInputArchetype-archetype-0.0.1-20190507.052146-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weather/bigdata/mt/signal/signalInputArchetype-archetype/0.0.1-SNAPSHOT/signalInputArchetype-archetype-0.0.1-20190507.052146-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/weather/bigdata/mt/signal/signalInputArchetype-archetype/0.0.1-SNAPSHOT/signalInputArchetype-archetype-0.0.1-20190507.052146-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
