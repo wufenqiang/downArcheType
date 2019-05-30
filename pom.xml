@@ -13,7 +13,7 @@
     </properties>
 
     <repositories>
-
+ 
         <repository>
             <id>snapshots</id>
             <url>${urlstable}/snapshots/</url>
