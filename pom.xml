@@ -13,7 +13,7 @@
     </properties>
 
     <repositories>
- 
+
         <repository>
             <id>snapshots</id>
             <url>${urlstable}/snapshots/</url>
@@ -36,5 +36,10 @@
             <artifactId>signalInputArchetype-archetype</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
+        <!--<dependency>-->
+            <!--<groupId>com.weather.bigdata.mt.basic</groupId>-->
+            <!--<artifactId>mt_commons</artifactId>-->
+            <!--<version>0.0.1-SNAPSHOT</version>-->
+        <!--</dependency>-->
     </dependencies>
 </project>
