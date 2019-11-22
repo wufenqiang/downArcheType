@@ -35,7 +35,7 @@
             <groupId>com.weather.bigdata.mt.signal</groupId>
             <artifactId>signalInputArchetype-archetype</artifactId>
             <version>0.0.1-SNAPSHOT</version>
-        </dependency>
+        </dependency> 
         <!--<dependency>-->
             <!--<groupId>com.weather.bigdata.mt.basic</groupId>-->
             <!--<artifactId>mt_commons</artifactId>-->
